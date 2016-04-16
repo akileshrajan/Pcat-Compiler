@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
   <version>0.1</version>
   <name>A Compiler for PCAT</name>
-  <url>http://lambda.uta.edu/cse5317/</url>
+  <url></url>
 
   <properties>
     <scala.version>2.11.7</scala.version>
