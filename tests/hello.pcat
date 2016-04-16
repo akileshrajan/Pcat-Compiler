@@ -1,0 +1,5 @@
+PROGRAM IS
+
+BEGIN
+WRITE ( "Hello World!" );
+END ;
